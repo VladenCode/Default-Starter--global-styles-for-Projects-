@@ -69,6 +69,10 @@ Manual Approach
 - select your own color
 - get shades [shadowlord](https://noeldelgado.github.io/shadowlord/#73fdad)
 
+Get Shades of Primary or Secudary color:
+- [shadowlord](https://noeldelgado.github.io/shadowlord/#645cff)
+
+
 Library/Faster Approach
 
 - [bootstrap](https://getbootstrap.com/docs/5.0/customize/color/#color-sass-maps)
